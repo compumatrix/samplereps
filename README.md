@@ -1,5 +1,3 @@
-Certainly! Below, you'll find a brief report on each topic, followed by an outline for a slide presentation that corresponds to each report.
-
 ### a. Project Budgeting and Cost Estimation
 
 **Report:**
