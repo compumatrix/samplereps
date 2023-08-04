@@ -207,3 +207,25 @@ Creating a project budget requires collaboration, careful planning, and continuo
 1. **Title Slide**
    - Topic: Creating a Project Budget
    - Subtitle: A Step-by-Step# samplereps
+
+## References
+
+1. **Defining Scope and Estimating Costs:**
+   - Project Management Institute. (2017). "A Guide to the Project Management Body of Knowledge (PMBOK® Guide)–Sixth Edition." PMI.
+
+2. **Developing Budget and Allocating Funds:**
+   - Kerzner, H. (2017). "Project Management: A Systems Approach to Planning, Scheduling, and Controlling." John Wiley & Sons.
+
+3. **Monitoring and Control:**
+   - Schwalbe, K. (2018). "Information Technology Project Management." Cengage Learning.
+
+4. **Methods of Estimating Costs:**
+   - Mulcahy, R. (2018). "PMP Exam Prep: Accelerated Learning to Pass the Project Management Professional (PMP) Exam." RMC Publications.
+
+5. **Creating a Project Budget:**
+   - Wysocki, R. K. (2011). "Effective Project Management: Traditional, Agile, Extreme." John Wiley & Sons.
+
+6. **General Project Management and Budgeting:**
+   - Heldman, K. (2018). "PMP: Project Management Professional Exam Study Guide." Sybex.
+
+Please note that while these references align with the content of the report, the specific content and interpretations in the report might not be directly quoted from these sources. Therefore, it would be beneficial to review these texts for precise information and context related to your needs.
